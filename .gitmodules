@@ -1,0 +1,3 @@
+[submodule "srfi/srfi-64"]
+	path = srfi/srfi-64
+	url = git://gitorious.org/srfi-64-port/srfi-64-port.git
